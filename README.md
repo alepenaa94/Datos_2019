@@ -3,7 +3,7 @@
 ## Integrantes del grupo
 Alvarez, Gonzalo  98359
 
-Aparicio, Axel    
+Aparicio, Axel    96283
 
 Minino, Nahuel    99599
 
