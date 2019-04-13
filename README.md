@@ -8,3 +8,6 @@ Aparicio, Axel    96283
 Minino, Nahuel    99599
 
 Peña, Alejandro   98529
+
+## CSVs
+Los CSVs usados en el análisis se descargan desde: https://drive.google.com/drive/folders/1-7ACCWhS3sWVh0vU273YwbS74WmzEhLa
